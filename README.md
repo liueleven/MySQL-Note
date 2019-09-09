@@ -1,2 +1,6 @@
-# mysql-guide
-MySQL
+# MySQL手册
+本篇记录MySQL的一些知识点，用于复习、快速查看，本篇除非特殊注明，否则默认是MySQL版本5.7。持续更新ing😉😉😉
+
+最初只想作为个人总结，后来越写越多，加上个人能力有限，有些知识点可能描述不当，有错漏，希望你能一起参与🎉🎉🎉，提Issues，补内容，一起添砖加瓦，让它变的更好💪💪💪
+
+GitHub影响阅读体验，所以内容都更新到了[语雀](https://www.yuque.com/liueleven/ehffhb/qufzrq#4jtQP)上，有任何问题，可以通过Issues或者语雀评论，感谢🙏🙏🙏
